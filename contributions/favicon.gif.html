@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!-- wget 404 page - © Copyright 2010 Sebastian Krzyszkowiak <dos@dosowisko.net>
+     Distributed under GNU AGPLv3 or later.
+     Source available at: http://dosowisko.net/404.php.src -->
+<html>
+<head>
+<title>Page Not Found - dosowisko.net</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="robots" content="noindex, follow" />
+<style type="text/css">body {
+    color: white;
+    background-color: black;
+    font-family: monospace;
+  }
+  a {
+   color: white;
+   text-decoration: none;
+  }
+  a:hover {
+   text-decoration: underline;
+  }
+</style>
+<script type="text/javascript">
+  var mig;
+
+  function zamigocz() {
+    if (mig.innerHTML=="_") {
+      mig.innerHTML="&nbsp;";
+    }
+    else {
+      mig.innerHTML="_";
+    }
+  }
+
+  function migotaj() {
+    mig=document.getElementById('underline');
+    setInterval("zamigocz()",500);
+  }
+</script>
+</head>
+<body onload="migotaj()">
+    <div><a href="mailto:dos@dosowisko.net">dos</a>@dosowisko.net:~# wget https://dosowisko.net/contributions/favicon.gif</div>
+  <div>--2019-03-10 22:17:00--  https://dosowisko.net/contributions/favicon.gif<br/>
+  Resolving dosowisko.net... 46.101.242.74<br/>
+  Connecting to dosowisko.net|46.101.242.74|:443... connected.<br/>
+  HTTP request sent, awaiting response... 404 Not Found<br/>
+  2019-03-10 22:17:00 ERROR 404: Not Found.</div>
+  <div>&nbsp;</div>
+  <div><a href="../index.html">dos@dosowisko.net:~</a># <span id="underline">_</span></div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+DONATIONS: Do you like what I do and want to support me so I can do more?
+           That's great! Here are some ways to do that :)
+IBAN/SEPA: BIC: BREXPLPWMBK
+           USD - IBAN: PL21 1140 2004 0000 3112 0257 1404
+           EUR - IBAN: PL50 1140 2004 0000 3812 0257 1412
+           PLN - IBAN: PL75 1140 2004 0000 3102 7373 7523
+PAYPAL:    dos@dosowisko.net
+PATREON:   dos@patreon.com
+LIBERAPAY: dos@liberapay.com
+BITCOIN:   17oRfsSfsq6F8m28nBarqwSGpiUo1eMH5v
+LITECOIN:  LLEgi8aiRAUvq8qWM5CiUhHk33zTNM7y92
+DOGECOIN:  DF1iKDftYfhTjxMTJ2hPpRJDPWVAUVCuz8
+BTC CASH:  bitcoincash:qrhs7y230mdp2zlxjfzk387wvem6ejssxc7c20k0gh
+ETHEREUM:  0x3d913c168954bb7D523a57a505346D2Bf346B252
+ITCH.IO:   buy any game at dos.itch.io
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEIt2frgBqEUNYNmF86PI1zzvbw/8FAltzBkEACgkQ6PI1zzvb
+w//BihAAg5vKFJm1Dh2DQexhe3B6Oh296F3MIcBbeXBmhAsWJTAoGflLjsLED+sa
+8m+LspdEw4YKPsA6nPxhfl1wXCYv8+M/puEurtkTAZZQdi0GszEcRdA3GAudanCn
+aV9MJdiBXVEuDOAuSpRAZAPNQpgPdOo2qhiivGIvTZE7byGF3rRx6cJFXfQ4b/r1
+3d3AlJTXvAnffGcXcbJYfMNAohalLo+cogB7sAMzzrBgiKDxIuKgsI3j/RnOE7Dl
+qbrxpcGxnnBncdI9hhIFc0QsjeS9vS7AWitLSL3/o/VEPuUw14v9uLOyyCswpenr
+EOH9S5UPYd9mv0/nV6d5A9tgD2BSrZaWsTN/Q2MTagIi0FPlaab6YfFQx7bqqV4F
+XNPKPUngd8B9Ap+pa2RXZWWV5bUz2xGw9uf/aCF1LqDuXZPhEamwxrHsTtw/bx6w
+uvKqbbzxLn/lk7DXkz6jdjjvqcYf+/aHSw7rRdDhvwU53evTbzm4bIBhhgMsig/y
++Z8p992PcH6uTeZWf1p/AnKDbENSMvuDRJADOjvm2EI1LPxlwQDuYiyAImLsFSQT
+ZOnqkWYuObntPAB/GNSM1FZWQ51XNDvTpm5dSsVRiOBXAN5naQI5piUgIQiXchCm
+x8KFUAlXgzVbzEHnPtzeIG7k412GDgN6CbX2vxQ0y7QAY1U5UiA=
+=/ryy
+-----END PGP SIGNATURE-----
